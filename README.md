@@ -1,4 +1,5 @@
-README: Agenda de Contatos em Python 🐍
+*README: Agenda de Contatos em Python 🐍*
+
 Este projeto é uma agenda de contatos simples, criada em Python, que permite salvar, listar, remover contatos e realizar outras ações como backup e exportação para PDF. A interface gráfica (GUI) é construída usando a biblioteca Tkinter.
 
 📋 Funcionalidades
